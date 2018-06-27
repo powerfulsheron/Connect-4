@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Puissance4/ViewController.swift"
+            timestampString = "550915828.469357"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "alertGagne(pionJoueurCourant:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Puissance4.ViewController.alertGagne(pionJoueurCourant: __ObjC.UIImage) -&gt; ()"
+                  moduleName = "Puissance4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rubenernestolagazeta/Desktop/lolo/Puissance4/Puissance4/ViewController.swift"
+                  timestampString = "550888886.186901"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1145">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Puissance4.ViewController.alertGagne(pionJoueurCourant: __ObjC.UIImage) -&gt; ()"
+                  moduleName = "Puissance4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rubenernestolagazeta/Desktop/lolo/Puissance4/Puissance4/ViewController.swift"
+                  timestampString = "550888886.188993"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "7277">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((key: Any, value: Any)) -&gt; Swift.Bool in Puissance4.ViewController.alertGagne(pionJoueurCourant: __ObjC.UIImage) -&gt; ()"
+                  moduleName = "Puissance4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rubenernestolagazeta/Desktop/lolo/Puissance4/Puissance4/ViewController.swift"
+                  timestampString = "550888886.191166"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "142">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

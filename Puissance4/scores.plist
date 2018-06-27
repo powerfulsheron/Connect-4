@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>2018-06-06</key>
+	<dict>
+		<key>Kevin</key>
+		<integer>1</integer>
+		<key>Lorenzo</key>
+		<integer>2</integer>
+		<key>Maxime</key>
+		<integer>8</integer>
+	</dict>
+	<key>2018-06-05</key>
+	<dict>
+		<key>Lorenzo</key>
+		<integer>2</integer>
+		<key>Maxime</key>
+		<integer>8</integer>
+	</dict>
+	<key>2018-06-04</key>
+	<dict>
+		<key>Diego</key>
+		<integer>14</integer>
+		<key>Lorenzo</key>
+		<integer>2</integer>
+		<key>Maxime</key>
+		<integer>8</integer>
+	</dict>
+	<key>2018-06-03</key>
+	<dict>
+		<key>Lorenzo</key>
+		<integer>2</integer>
+		<key>Maxime</key>
+		<integer>8</integer>
+	</dict>
+	<key>2018-06-02</key>
+	<dict>
+		<key>Oscar</key>
+		<integer>5</integer>
+		<key>Lorenzo</key>
+		<integer>2</integer>
+		<key>Maxime</key>
+		<integer>8</integer>
+	</dict>
+	<key>2018-06-01</key>
+	<dict>
+		<key>Lorenzo</key>
+		<integer>2</integer>
+		<key>Maxime</key>
+		<integer>8</integer>
+	</dict>
+</dict>
+</plist>
